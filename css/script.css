@@ -1,0 +1,44 @@
+
+body{
+ 
+  font-family: 'Oswald', sans-serif;
+  font-size:20px;
+  margin: 0 auto;
+  max-width:800px;
+  background-size: cover;
+  
+}
+#p1{
+	color:orange;
+}
+#p2{
+	color:red;
+	
+}
+#p3{
+	color:black;
+	font-family:bold;
+	
+}
+header{
+  color:white;
+  background:url("../images/saturn.jpg");
+      background-size: cover;
+  image-repeat:no-repeat;
+  background-color:red;
+  
+}
+
+.div1{
+	height: 200px;
+    width:200px;
+    background-size: cover;
+    position: auto;
+    margin:40px;
+    top:100px;
+  
+}
+.div2{
+	color:green;
+  
+}
